@@ -10,7 +10,7 @@ The goal was to control a small car with our phone thanks to Bluetooth.
 
 *Programming part:
 1) coding our card with SystemWorkbench for STM32;
-2) coding an app to control the car with our phone.
+2) coding an app to control the car with our phone (with AndroidStudio).
 
 <br><br>
 To program our PCB, we used a state machine:
