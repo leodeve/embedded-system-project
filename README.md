@@ -16,13 +16,13 @@ To program our PCB, we used a state machine:
 
 ![state_machine](https://user-images.githubusercontent.com/46608797/86120365-76f7b600-bad4-11ea-97ca-afef716ad013.png)
 
-
-
-
-
 The following activity diagram shows how the phone app works:
 
 ![activity_diagram_app](https://user-images.githubusercontent.com/46608797/86119811-73affa80-bad3-11ea-80ca-da7767e80786.png)
+
+Here is how it looks, with the different characters sent to the PCB:
+
+![app](https://user-images.githubusercontent.com/46608797/86120730-203eac00-bad5-11ea-8b96-374d101b38b5.png)
 
 
 
