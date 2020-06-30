@@ -16,7 +16,7 @@ The goal was to control a small car with our phone.
 To program our PCB, we used a state machine:
 
 ![state_machine](https://user-images.githubusercontent.com/46608797/86120365-76f7b600-bad4-11ea-97ca-afef716ad013.png)
-<br><br>
+<br><br><br>
 
 The following activity diagram shows how the phone app works:
 <p align="center">
