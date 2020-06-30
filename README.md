@@ -12,6 +12,8 @@ The goal was to control a small car with our phone.
 1) coding our card with SystemWorkbench for STM32;
 2) coding an app to control the car with our phone.
 
+
+
 To program our PCB, we used a state machine:
 
 ![state_machine](https://user-images.githubusercontent.com/46608797/86120365-76f7b600-bad4-11ea-97ca-afef716ad013.png)
