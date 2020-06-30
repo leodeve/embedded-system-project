@@ -1,7 +1,7 @@
 # embedded-system-project
 
 This is a project I did with a classmate during my third year at my engineering school.
-The goal was to control a small car with our phone.
+The goal was to control a small car with our phone thanks to Bluetooth.
 
 *Electronic part (with the software Altium):
 1) positionning the components on our printed circuit board (PCB);
