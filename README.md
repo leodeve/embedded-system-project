@@ -22,7 +22,7 @@ The following activity diagram shows how the phone app works:
 
 ![activity_diagram_app](https://user-images.githubusercontent.com/46608797/86119811-73affa80-bad3-11ea-80ca-da7767e80786.png)
 
-Here is how it looks, with the different characters sent to the PCB:
+Here is how it looks (some characters are sent to the PCB when we press the buttons):
 
 ![app](https://user-images.githubusercontent.com/46608797/86120730-203eac00-bad5-11ea-8b96-374d101b38b5.png)
 
